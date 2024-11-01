@@ -1,0 +1,16 @@
+.wp_e_commerce_targetpay {
+	position: relative;
+    background: #FFF;
+    padding: 2em 3em;
+    width: auto;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.wp_e_commerce_targetpay_open {
+	background: #333;
+	color: #FFF;
+	display: block;
+	padding: 8px 16px;
+	width: 100%;
+}
